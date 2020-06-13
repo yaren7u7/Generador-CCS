@@ -11,7 +11,7 @@
 
 
 
-
+pkg update -y
 
 
 
